@@ -1,0 +1,234 @@
+Using device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: 1/60
+Train Loss: 1.6086, Train Accuracy: 41.18%
+Test Loss: 1.3586, Test Accuracy: 53.21%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_1.pth
+Epoch: 2/60
+Train Loss: 1.2047, Train Accuracy: 57.79%
+Test Loss: 1.0112, Test Accuracy: 64.80%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_2.pth
+Epoch: 3/60
+Train Loss: 1.0166, Train Accuracy: 65.04%
+Test Loss: 1.0105, Test Accuracy: 66.56%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_3.pth
+Epoch: 4/60
+Train Loss: 0.9006, Train Accuracy: 69.37%
+Test Loss: 0.7937, Test Accuracy: 72.85%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_4.pth
+Epoch: 5/60
+Train Loss: 0.8159, Train Accuracy: 72.60%
+Test Loss: 0.8361, Test Accuracy: 71.35%
+Model zapisano w model_epoch_5.pth
+Epoch: 6/60
+Train Loss: 0.7611, Train Accuracy: 74.42%
+Test Loss: 0.6754, Test Accuracy: 76.69%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_6.pth
+Epoch: 7/60
+Train Loss: 0.7092, Train Accuracy: 76.35%
+Test Loss: 0.6856, Test Accuracy: 76.62%
+Model zapisano w model_epoch_7.pth
+Epoch: 8/60
+Train Loss: 0.6694, Train Accuracy: 77.70%
+Test Loss: 0.6190, Test Accuracy: 79.27%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_8.pth
+Epoch: 9/60
+Train Loss: 0.6338, Train Accuracy: 78.79%
+Test Loss: 0.6308, Test Accuracy: 79.16%
+Model zapisano w model_epoch_9.pth
+Epoch: 10/60
+Train Loss: 0.6017, Train Accuracy: 79.93%
+Test Loss: 0.5845, Test Accuracy: 80.16%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_10.pth
+Epoch: 11/60
+Train Loss: 0.5125, Train Accuracy: 82.98%
+Test Loss: 0.5102, Test Accuracy: 82.87%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_11.pth
+Epoch: 12/60
+Train Loss: 0.4946, Train Accuracy: 83.65%
+Test Loss: 0.5059, Test Accuracy: 83.19%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_12.pth
+Epoch: 13/60
+Train Loss: 0.4803, Train Accuracy: 83.88%
+Test Loss: 0.4976, Test Accuracy: 83.57%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_13.pth
+Epoch: 14/60
+Train Loss: 0.4657, Train Accuracy: 84.43%
+Test Loss: 0.4951, Test Accuracy: 83.75%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_14.pth
+Epoch: 15/60
+Train Loss: 0.4647, Train Accuracy: 84.53%
+Test Loss: 0.4956, Test Accuracy: 83.40%
+Model zapisano w model_epoch_15.pth
+Epoch: 16/60
+Train Loss: 0.4479, Train Accuracy: 85.13%
+Test Loss: 0.4962, Test Accuracy: 83.59%
+Model zapisano w model_epoch_16.pth
+Epoch: 17/60
+Train Loss: 0.4437, Train Accuracy: 85.40%
+Test Loss: 0.4900, Test Accuracy: 83.87%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_17.pth
+Epoch: 18/60
+Train Loss: 0.4410, Train Accuracy: 85.28%
+Test Loss: 0.4877, Test Accuracy: 83.88%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_18.pth
+Epoch: 19/60
+Train Loss: 0.4318, Train Accuracy: 85.65%
+Test Loss: 0.4841, Test Accuracy: 84.02%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_19.pth
+Epoch: 20/60
+Train Loss: 0.4283, Train Accuracy: 85.65%
+Test Loss: 0.4870, Test Accuracy: 83.77%
+Model zapisano w model_epoch_20.pth
+Epoch: 21/60
+Train Loss: 0.4152, Train Accuracy: 86.03%
+Test Loss: 0.4808, Test Accuracy: 84.06%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_21.pth
+Epoch: 22/60
+Train Loss: 0.4103, Train Accuracy: 86.40%
+Test Loss: 0.4809, Test Accuracy: 83.84%
+Model zapisano w model_epoch_22.pth
+Epoch: 23/60
+Train Loss: 0.4116, Train Accuracy: 86.14%
+Test Loss: 0.4811, Test Accuracy: 83.87%
+Model zapisano w model_epoch_23.pth
+Epoch: 24/60
+Train Loss: 0.4104, Train Accuracy: 86.19%
+Test Loss: 0.4813, Test Accuracy: 84.11%
+Model zapisano w model_epoch_24.pth
+Epoch: 25/60
+Train Loss: 0.4108, Train Accuracy: 86.46%
+Test Loss: 0.4792, Test Accuracy: 84.15%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_25.pth
+Epoch: 26/60
+Train Loss: 0.4097, Train Accuracy: 86.38%
+Test Loss: 0.4802, Test Accuracy: 84.08%
+Model zapisano w model_epoch_26.pth
+Epoch: 27/60
+Train Loss: 0.4059, Train Accuracy: 86.53%
+Test Loss: 0.4785, Test Accuracy: 84.15%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_27.pth
+Epoch: 28/60
+Train Loss: 0.4091, Train Accuracy: 86.34%
+Test Loss: 0.4792, Test Accuracy: 84.16%
+Model zapisano w model_epoch_28.pth
+Epoch: 29/60
+Train Loss: 0.4006, Train Accuracy: 86.62%
+Test Loss: 0.4776, Test Accuracy: 84.16%
+Model zapisano w best_model.pth
+Model zapisano w model_epoch_29.pth
+Epoch: 30/60
+Train Loss: 0.4059, Train Accuracy: 86.52%
+Test Loss: 0.4801, Test Accuracy: 84.04%
+Model zapisano w model_epoch_30.pth
+Epoch: 31/60
+Train Loss: 0.4020, Train Accuracy: 86.62%
+Test Loss: 0.4786, Test Accuracy: 84.21%
+Model zapisano w model_epoch_31.pth
+Epoch: 32/60
+Train Loss: 0.4015, Train Accuracy: 86.64%
+Test Loss: 0.4786, Test Accuracy: 84.12%
+Files already downloaded and verified
+Files already downloaded and verified
+Stable worsening. Decreasing batch size to 64
+Model zapisano w model_epoch_32.pth
+Epoch: 33/60
+Train Loss: 0.4263, Train Accuracy: 85.92%
+Test Loss: 0.4817, Test Accuracy: 84.13%
+Model zapisano w model_epoch_33.pth
+Epoch: 34/60
+Train Loss: 0.4233, Train Accuracy: 85.86%
+Test Loss: 0.4843, Test Accuracy: 84.08%
+Model zapisano w model_epoch_34.pth
+Epoch: 35/60
+Train Loss: 0.4229, Train Accuracy: 85.90%
+Test Loss: 0.4835, Test Accuracy: 84.16%
+Model zapisano w model_epoch_35.pth
+Epoch: 36/60
+Train Loss: 0.4244, Train Accuracy: 85.80%
+Test Loss: 0.4834, Test Accuracy: 83.91%
+Model zapisano w model_epoch_36.pth
+Epoch: 37/60
+Train Loss: 0.4197, Train Accuracy: 85.92%
+Test Loss: 0.4786, Test Accuracy: 84.28%
+Model zapisano w model_epoch_37.pth
+Epoch: 38/60
+Train Loss: 0.4215, Train Accuracy: 85.95%
+Test Loss: 0.4803, Test Accuracy: 84.25%
+Model zapisano w model_epoch_38.pth
+Epoch: 39/60
+Train Loss: 0.4259, Train Accuracy: 85.78%
+Test Loss: 0.4824, Test Accuracy: 84.15%
+Model zapisano w model_epoch_39.pth
+Epoch: 40/60
+Train Loss: 0.4252, Train Accuracy: 85.95%
+Test Loss: 0.4831, Test Accuracy: 84.25%
+Files already downloaded and verified
+Files already downloaded and verified
+Stable worsening. Decreasing batch size to 32
+Model zapisano w model_epoch_40.pth
+Epoch: 41/60
+Train Loss: 0.4638, Train Accuracy: 84.59%
+Test Loss: 0.4812, Test Accuracy: 84.22%
+Model zapisano w model_epoch_41.pth
+Epoch: 42/60
+Train Loss: 0.4683, Train Accuracy: 84.49%
+Test Loss: 0.4824, Test Accuracy: 84.15%
+Model zapisano w model_epoch_42.pth
+Epoch: 43/60
+Train Loss: 0.4587, Train Accuracy: 84.64%
+Test Loss: 0.4808, Test Accuracy: 84.12%
+Model zapisano w model_epoch_43.pth
+Epoch: 44/60
+Train Loss: 0.4643, Train Accuracy: 84.56%
+Test Loss: 0.4843, Test Accuracy: 84.19%
+Model zapisano w model_epoch_44.pth
+Epoch: 45/60
+Train Loss: 0.4625, Train Accuracy: 84.58%
+Test Loss: 0.4874, Test Accuracy: 83.67%
+Model zapisano w model_epoch_45.pth
+Epoch: 46/60
+Train Loss: 0.4658, Train Accuracy: 84.57%
+Test Loss: 0.4878, Test Accuracy: 84.03%
+Model zapisano w model_epoch_46.pth
+Epoch: 47/60
+Train Loss: 0.4613, Train Accuracy: 84.77%
+Test Loss: 0.4881, Test Accuracy: 83.80%
+Model zapisano w model_epoch_47.pth
+Epoch: 48/60
+---------------------------------------------------------------------------
+KeyboardInterrupt                         Traceback (most recent call last)
+<ipython-input-7-2cb9cb639992> in <cell line: 33>()
+     35 
+     36     # Trening i testowanie
+---> 37     train_loss, train_accuracy = back_pass(model, train_loader, loss_fn, optimizer, device)
+     38     test_loss, test_accuracy = test(model, test_loader, loss_fn, device)
+     39 
+
+3 frames
+/usr/local/lib/python3.10/dist-packages/torch/autograd/graph.py in _engine_run_backward(t_outputs, *args, **kwargs)
+    823         unregister_hooks = _register_logging_hooks_on_whole_graph(t_outputs)
+    824     try:
+--> 825         return Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+    826             t_outputs, *args, **kwargs
+    827         )  # Calls into the C++ engine to run the backward pass
+
+KeyboardInterrupt: 

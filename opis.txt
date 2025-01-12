@@ -1,0 +1,11 @@
+1. Program korzystał z prostego modelu CNN (dwie warstwy konwolucyjne, dwie w pełni połączone) oraz optymalizatora SGD z momentum. Dane były normalizowane. Model osiągnął wysoką dokładność na zbiorze treningowym (~96%), ale znacznie niższą na testowym (~73%), co wskazuje na problem przeuczania (overfitting).
+2.Program po wprowadzeniu augmentacji danych (losowe odbicia i przycięcia) oraz regularyzacji L2 poprawił generalizację. Wyniki:
+
+Train Accuracy: 76.62%
+Test Accuracy: 76.51%
+Strata testowa jest bardziej stabilna, co oznacza mniejsze przeuczanie.
+3. 
+Zmieniono batch size z 32 na 128 oraz włączono wykorzystanie GPU (cuda). Zwiększenie batch size poprawiło stabilność gradientów, co skutkowało płynniejszym spadkiem strat i wzrostem dokładności. Model osiągnął Train Accuracy 80.21% i Test Accuracy 79.31% po 28 epokach, co wskazuje na lepszą generalizację.
+4.Do sieci dodano trzecią warstwę konwolucyjną oraz dodatkową warstwę w pełni połączoną. Wprowadzono Dropout po warstwach w pełni połączonych, aby zmniejszyć przeuczanie. Model osiągnął Train Accuracy 75.79% i Test Accuracy 78.02% po 37 epokach, co wskazuje na lepszą zdolność do generalizacji oraz stabilność wyników testowych. Podane wyniki wskazują, że dokładność testowa i strata testowa przestały się znacząco poprawiać po około 30 epokach
+5.Dodano dwie nowe warstwy konwolucyjne z normalizacją batchów (BatchNorm), co poprawiło zdolność modelu do uchwycenia bardziej złożonych wzorców. Model osiągnął stabilne wyniki: Train Accuracy ~84.6% i Test Accuracy ~83.1%, ale w późniejszych epokach poprawa zatrzymała się (plateau), a Test Loss przestał spadać.
+		
